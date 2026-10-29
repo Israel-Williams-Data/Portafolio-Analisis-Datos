@@ -10,4 +10,4 @@ Hola, soy Israel Williams Córdoba, analista de datos en formación. Aquí publi
 
 ## Contacto
 
-[Pega aquí el enlace de tu LinkedIn]
+https://www.linkedin.com/in/israel-williams-a29b0a75/
