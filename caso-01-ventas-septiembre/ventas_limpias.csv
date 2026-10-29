@@ -1,0 +1,521 @@
+﻿id_pedido,fecha,cliente,ciudad,producto,categoria,cantidad,es_atipico,es_cantidad_negativa,precio_unitario,descuento_pct,estado,vendedor
+1001,9/4/2026,Cliente 066,Cobán,Impresora HP,Impresoras,1,0,0,1100.17,0,Pendiente,Sin Asignar
+1002,9/18/2026,Cliente 071,Cobán,Disco duro 1TB,Almacenamiento,5,0,0,569.52,10,Entregado,Carlos Méndez
+1003,9/1/2026,Cliente 037,Guatemala,Parlante portátil,Audio,5,0,0,380.19,0,Entregado,Lucía Pérez
+1004,9/7/2026,Cliente 119,Antigua Guatemala,Disco duro 1TB,Almacenamiento,4,0,0,551.65,15,Cancelado,Ana López
+1005,9/24/2026,Cliente 069,Antigua Guatemala,Impresora HP,Impresoras,2,0,0,1072.92,5,Entregado,Sofía Castillo
+1006,9/10/2026,Cliente 048,Antigua Guatemala,Laptop Lenovo 14,Computadoras,5,0,0,5308.51,5,Entregado,Jorge Ramírez
+1007,9/29/2026,Cliente 112,Guatemala,Parlante portátil,Audio,4,0,0,391.27,10,Pendiente,Jorge Ramírez
+1008,9/13/2026,Cliente 054,Escuintla,Webcam HD,Accesorios,5,0,0,236.52,10,Cancelado,Ana López
+1009,9/19/2026,Cliente 105,Guatemala,Monitor 24 pulgadas,Monitores,1,0,0,1473.13,15,Pendiente,Jorge Ramírez
+1010,9/16/2026,Cliente 030,Guatemala,Teclado mecánico,Accesorios,999,1,0,319.66,15,Entregado,Sofía Castillo
+1011,9/9/2026,Cliente 040,Escuintla,Webcam HD,Accesorios,5,0,0,238.59,5,Entregado,Carlos Méndez
+1012,9/10/2026,Cliente 020,Cobán,Audífonos Bluetooth,Audio,5,0,0,266.9,10,Entregado,Lucía Pérez
+1013,9/30/2026,Cliente 063,Quetzaltenango,Monitor 24 pulgadas,Monitores,5,0,0,1429.13,5,Cancelado,Ana López
+1014,9/27/2026,Cliente 118,Guatemala,Audífonos Bluetooth,Audio,5,0,0,271.97,15,Cancelado,Lucía Pérez
+1015,9/15/2026,Cliente 108,Cobán,Teclado mecánico,Accesorios,5,0,0,328.97,0,Entregado,Jorge Ramírez
+1016,9/12/2026,Cliente 110,Quetzaltenango,Mouse inalámbrico,Accesorios,1,0,0,83.44,0,Entregado,Ana López
+1017,9/1/2026,Cliente 120,Guatemala,Memoria USB 64GB,Almacenamiento,-2,0,1,70.34,0,Entregado,Sofía Castillo
+1018,9/2/2026,Cliente 086,Cobán,Webcam HD,Accesorios,3,0,0,246.57,0,Entregado,Lucía Pérez
+1019,9/22/2026,Cliente 119,Quetzaltenango,Parlante portátil,Audio,1,0,0,391.74,10,Entregado,Jorge Ramírez
+1020,9/19/2026,Cliente 113,Cobán,Teclado mecánico,Accesorios,2,0,0,328.8,0,Entregado,Carlos Méndez
+1021,9/30/2026,Desconocido,Escuintla,Teclado mecánico,Accesorios,2,0,0,325.44,10,Entregado,Jorge Ramírez
+1022,9/26/2026,Cliente 026,Quetzaltenango,Teclado mecánico,Accesorios,1,0,0,320.38,0,Entregado,Ana López
+1023,9/2/2026,Cliente 120,Guatemala,Impresora HP,Impresoras,1,0,0,1109.65,10,Entregado,Lucía Pérez
+1024,9/22/2026,Cliente 117,Guatemala,Audífonos Bluetooth,Audio,5,0,0,274.18,5,Pendiente,Sofía Castillo
+1025,9/26/2026,Cliente 067,Mixco,Teclado mecánico,Accesorios,4,0,0,313.35,10,Entregado,Jorge Ramírez
+1026,9/20/2026,Cliente 009,Escuintla,Monitor 24 pulgadas,Monitores,4,0,0,1465.53,0,Entregado,Carlos Méndez
+1027,9/2/2026,Cliente 007,Quetzaltenango,Webcam HD,Accesorios,2,0,0,246.21,5,Entregado,Carlos Méndez
+1028,9/21/2026,Cliente 113,Escuintla,Webcam HD,Accesorios,1,0,0,235.95,0,Entregado,Jorge Ramírez
+1029,9/9/2026,Cliente 112,Guatemala,Disco duro 1TB,Almacenamiento,4,0,0,561.11,0,Entregado,Lucía Pérez
+1030,9/6/2026,Cliente 100,Quetzaltenango,Audífonos Bluetooth,Audio,2,0,0,274.4,5,Entregado,Lucía Pérez
+1031,9/17/2026,Cliente 068,Escuintla,Memoria USB 64GB,Almacenamiento,2,0,0,69.77,0,Entregado,Carlos Méndez
+1032,9/1/2026,Cliente 083,Antigua Guatemala,Mouse inalámbrico,Accesorios,4,0,0,86.93,10,Entregado,Ana López
+1033,9/12/2026,Cliente 088,Escuintla,Teclado mecánico,Accesorios,2,0,0,317.15,0,Pendiente,Lucía Pérez
+1034,9/18/2026,Cliente 073,Antigua Guatemala,Parlante portátil,Audio,2,0,0,395.4,15,Cancelado,Carlos Méndez
+1035,9/4/2026,Cliente 056,Mixco,Audífonos Bluetooth,Audio,1,0,0,268.34,15,Entregado,Lucía Pérez
+1036,9/24/2026,Cliente 014,Escuintla,Teclado mecánico,Accesorios,3,0,0,322.8,0,Pendiente,Ana López
+1037,9/10/2026,Cliente 033,Guatemala,Impresora HP,Impresoras,1,0,0,1077.65,5,Entregado,Jorge Ramírez
+1038,9/1/2026,Cliente 003,Antigua Guatemala,Laptop Lenovo 14,Computadoras,1,0,0,5074.09,0,Cancelado,Sofía Castillo
+1039,9/30/2026,Cliente 059,Escuintla,Impresora HP,Impresoras,1,0,0,1087.79,5,Entregado,Sofía Castillo
+1040,9/7/2026,Cliente 087,Guatemala,Parlante portátil,Audio,3,0,0,389.13,10,Entregado,Jorge Ramírez
+1041,9/10/2026,Cliente 092,Quetzaltenango,Impresora HP,Impresoras,1,0,0,1070.8,0,Entregado,Lucía Pérez
+1042,9/24/2026,Desconocido,Antigua Guatemala,Mouse inalámbrico,Accesorios,1,0,0,83.96,10,Entregado,Carlos Méndez
+1043,9/18/2026,Cliente 015,Mixco,Laptop Lenovo 14,Computadoras,1,0,0,5269.16,0,Entregado,Sin Asignar
+1044,9/17/2026,Cliente 084,Antigua Guatemala,Impresora HP,Impresoras,1,0,0,1106.4,5,Pendiente,Carlos Méndez
+1045,9/12/2026,Cliente 031,Quetzaltenango,Disco duro 1TB,Almacenamiento,2,0,0,556.11,0,Entregado,Sofía Castillo
+1046,9/1/2026,Cliente 051,Antigua Guatemala,Webcam HD,Accesorios,1,0,0,242.65,0,Entregado,Ana López
+1047,9/9/2026,Cliente 034,Antigua Guatemala,Webcam HD,Accesorios,1,0,0,239.7,15,Pendiente,Ana López
+1048,9/27/2026,Cliente 084,Escuintla,Teclado mecánico,Accesorios,2,0,0,321.02,0,Cancelado,Lucía Pérez
+1049,9/2/2026,Cliente 032,Quetzaltenango,Laptop Lenovo 14,Computadoras,1,0,0,5239.89,0,Cancelado,Carlos Méndez
+1050,9/30/2026,Cliente 047,Mixco,Disco duro 1TB,Almacenamiento,2,0,0,566.96,0,Entregado,Lucía Pérez
+1051,9/12/2026,Cliente 071,Quetzaltenango,Memoria USB 64GB,Almacenamiento,2,0,0,70.58,0,Entregado,Jorge Ramírez
+1052,9/5/2026,Cliente 046,Escuintla,Memoria USB 64GB,Almacenamiento,4,0,0,71.65,0,Entregado,Ana López
+1053,9/10/2026,Cliente 034,Mixco,Impresora HP,Impresoras,1,0,0,1103.08,0,Cancelado,Carlos Méndez
+1054,9/28/2026,Cliente 006,Quetzaltenango,Parlante portátil,Audio,4,0,0,385.48,10,Cancelado,Carlos Méndez
+1055,9/17/2026,Cliente 094,Quetzaltenango,Mouse inalámbrico,Accesorios,3,0,0,82.89,10,Entregado,Lucía Pérez
+1056,9/2/2026,Cliente 025,Mixco,Parlante portátil,Audio,2,0,0,393.8,0,Cancelado,Lucía Pérez
+1057,9/12/2026,Cliente 025,Cobán,Teclado mecánico,Accesorios,1,0,0,329.08,10,Entregado,Jorge Ramírez
+1058,9/12/2026,Cliente 067,Guatemala,Webcam HD,Accesorios,1,0,0,235.26,0,Cancelado,Carlos Méndez
+1059,9/6/2026,Cliente 066,Cobán,Laptop Lenovo 14,Computadoras,1,0,0,5320.8,0,Entregado,Lucía Pérez
+1060,9/10/2026,Cliente 077,Escuintla,Monitor 24 pulgadas,Monitores,2,0,0,1452.8,0,Entregado,Lucía Pérez
+1061,9/16/2026,Cliente 094,Guatemala,Mouse inalámbrico,Accesorios,4,0,0,86.91,0,Pendiente,Lucía Pérez
+1062,9/21/2026,Cliente 117,Quetzaltenango,Mouse inalámbrico,Accesorios,1,0,0,84.22,10,Cancelado,Carlos Méndez
+1063,9/27/2026,Cliente 059,Escuintla,Impresora HP,Impresoras,3,0,0,1112.11,0,Entregado,Ana López
+1064,9/26/2026,Cliente 034,Cobán,Memoria USB 64GB,Almacenamiento,2,0,0,71.17,0,Entregado,Jorge Ramírez
+1065,9/17/2026,Cliente 117,Cobán,Webcam HD,Accesorios,5,0,0,237.58,5,Entregado,Carlos Méndez
+1066,9/7/2026,Cliente 089,Antigua Guatemala,Memoria USB 64GB,Almacenamiento,3,0,0,68.82,5,Pendiente,Jorge Ramírez
+1067,9/7/2026,Cliente 073,Cobán,Teclado mecánico,Accesorios,1,0,0,318.88,5,Entregado,Lucía Pérez
+1068,9/27/2026,Cliente 108,Quetzaltenango,Mouse inalámbrico,Accesorios,2,0,0,84.08,0,Cancelado,Lucía Pérez
+1069,9/8/2026,Cliente 072,Guatemala,Impresora HP,Impresoras,2,0,0,1131.17,0,Pendiente,Jorge Ramírez
+1070,9/21/2026,Cliente 071,Cobán,Disco duro 1TB,Almacenamiento,3,0,0,556.62,15,Entregado,Sin Asignar
+1071,9/4/2026,Cliente 109,Cobán,Memoria USB 64GB,Almacenamiento,2,0,0,71.72,5,Entregado,Lucía Pérez
+1072,9/2/2026,Cliente 002,Antigua Guatemala,Disco duro 1TB,Almacenamiento,2,0,0,567.54,0,Entregado,Sofía Castillo
+1073,9/21/2026,Cliente 100,Quetzaltenango,Parlante portátil,Audio,5,0,0,388,0,Entregado,Ana López
+1074,9/25/2026,Cliente 085,Antigua Guatemala,Monitor 24 pulgadas,Monitores,3,0,0,1461.86,0,Entregado,Jorge Ramírez
+1075,9/17/2026,Cliente 048,Guatemala,Audífonos Bluetooth,Audio,2,0,0,277.03,10,Entregado,Ana López
+1076,9/5/2026,Cliente 060,Mixco,Impresora HP,Impresoras,250,1,0,1131.17,15,Entregado,Ana López
+1077,9/19/2026,Cliente 088,Escuintla,Disco duro 1TB,Almacenamiento,1,0,0,567.12,0,Entregado,Lucía Pérez
+1078,9/14/2026,Cliente 094,Escuintla,Laptop Lenovo 14,Computadoras,2,0,0,5101.8,5,Entregado,Lucía Pérez
+1079,9/12/2026,Cliente 033,Quetzaltenango,Impresora HP,Impresoras,3,0,0,1107.04,0,Entregado,Jorge Ramírez
+1080,9/5/2026,Cliente 047,Antigua Guatemala,Laptop Lenovo 14,Computadoras,5,0,0,5193.97,0,Entregado,Lucía Pérez
+1081,9/17/2026,Cliente 075,Guatemala,Disco duro 1TB,Almacenamiento,4,0,0,553.42,0,Cancelado,Sofía Castillo
+1082,9/25/2026,Cliente 079,Guatemala,Audífonos Bluetooth,Audio,3,0,0,282.94,5,Entregado,Lucía Pérez
+1083,9/12/2026,Cliente 072,Mixco,Teclado mecánico,Accesorios,2,0,0,311.9,0,Cancelado,Jorge Ramírez
+1084,9/21/2026,Cliente 028,Guatemala,Mouse inalámbrico,Accesorios,5,0,0,87.17,0,Entregado,Jorge Ramírez
+1085,9/17/2026,Cliente 028,Antigua Guatemala,Webcam HD,Accesorios,5,0,0,234.62,0,Cancelado,Lucía Pérez
+1086,9/12/2026,Cliente 093,Escuintla,Disco duro 1TB,Almacenamiento,2,0,0,561.1,0,Pendiente,Sofía Castillo
+1087,9/23/2026,Cliente 017,Cobán,Teclado mecánico,Accesorios,1,0,0,324.39,15,Entregado,Lucía Pérez
+1088,9/26/2026,Cliente 023,Mixco,Audífonos Bluetooth,Audio,2,0,0,282.28,0,Entregado,Carlos Méndez
+1089,9/15/2026,Cliente 007,Mixco,Teclado mecánico,Accesorios,1,0,0,313.98,5,Pendiente,Jorge Ramírez
+1090,9/30/2026,Cliente 039,Mixco,Webcam HD,Accesorios,3,0,0,246.59,10,Entregado,Jorge Ramírez
+1091,9/22/2026,Cliente 042,Mixco,Disco duro 1TB,Almacenamiento,1,0,0,548.41,5,Entregado,Ana López
+1092,9/4/2026,Cliente 091,Cobán,Impresora HP,Impresoras,2,0,0,1105.68,0,Entregado,Carlos Méndez
+1093,9/17/2026,Cliente 012,Quetzaltenango,Monitor 24 pulgadas,Monitores,4,0,0,1482.11,0,Entregado,Carlos Méndez
+1094,9/8/2026,Cliente 021,Escuintla,Memoria USB 64GB,Almacenamiento,4,0,0,68.79,15,Entregado,Jorge Ramírez
+1095,9/28/2026,Cliente 040,Cobán,Impresora HP,Impresoras,5,0,0,1113.53,10,Pendiente,Jorge Ramírez
+1096,9/3/2026,Cliente 015,Guatemala,Monitor 24 pulgadas,Monitores,3,0,0,1470.8,0,Pendiente,Carlos Méndez
+1097,9/4/2026,Cliente 056,Mixco,Teclado mecánico,Accesorios,4,0,0,314.31,0,Cancelado,Carlos Méndez
+1098,9/21/2026,Cliente 047,Quetzaltenango,Audífonos Bluetooth,Audio,1,0,0,271.49,5,Cancelado,Jorge Ramírez
+1099,9/29/2026,Cliente 063,Mixco,Audífonos Bluetooth,Audio,1,0,0,280.62,0,Cancelado,Carlos Méndez
+1100,9/12/2026,Cliente 082,Escuintla,Memoria USB 64GB,Almacenamiento,1,0,0,69.49,15,Cancelado,Lucía Pérez
+1101,9/25/2026,Cliente 011,Quetzaltenango,Audífonos Bluetooth,Audio,5,0,0,282.71,0,Cancelado,Sofía Castillo
+1102,9/27/2026,Cliente 105,Antigua Guatemala,Webcam HD,Accesorios,2,0,0,246.43,0,Entregado,Sofía Castillo
+1103,9/2/2026,Cliente 058,Escuintla,Mouse inalámbrico,Accesorios,1,0,0,85.14,5,Pendiente,Jorge Ramírez
+1104,9/20/2026,Cliente 020,Antigua Guatemala,Memoria USB 64GB,Almacenamiento,1,0,0,70.17,0,Entregado,Jorge Ramírez
+1105,9/3/2026,Cliente 033,Guatemala,Teclado mecánico,Accesorios,1,0,0,320.67,15,Entregado,Sofía Castillo
+1106,9/17/2026,Cliente 110,Antigua Guatemala,Mouse inalámbrico,Accesorios,1,0,0,86.19,0,Entregado,Carlos Méndez
+1107,9/11/2026,Cliente 052,Mixco,Memoria USB 64GB,Almacenamiento,3,0,0,70.8,5,Entregado,Jorge Ramírez
+1108,9/8/2026,Cliente 025,Guatemala,Parlante portátil,Audio,5,0,0,382.61,10,Entregado,Jorge Ramírez
+1109,9/17/2026,Cliente 028,Quetzaltenango,Laptop Lenovo 14,Computadoras,1,0,0,5199.67,10,Entregado,Carlos Méndez
+1110,9/10/2026,Cliente 041,Antigua Guatemala,Monitor 24 pulgadas,Monitores,4,0,0,1481.37,15,Pendiente,Ana López
+1111,9/12/2026,Cliente 022,Escuintla,Parlante portátil,Audio,1,0,0,398.65,10,Entregado,Carlos Méndez
+1112,9/19/2026,Cliente 059,Quetzaltenango,Mouse inalámbrico,Accesorios,1,0,0,85.28,0,Entregado,Jorge Ramírez
+1113,9/1/2026,Cliente 034,Mixco,Monitor 24 pulgadas,Monitores,2,0,0,1423.61,0,Entregado,Lucía Pérez
+1114,9/6/2026,Cliente 108,Cobán,Laptop Lenovo 14,Computadoras,1,0,0,5112.19,5,Cancelado,Ana López
+1115,9/12/2026,Cliente 066,Cobán,Memoria USB 64GB,Almacenamiento,1,0,0,71.43,0,Entregado,Ana López
+1116,9/10/2026,Cliente 009,Antigua Guatemala,Mouse inalámbrico,Accesorios,2,0,0,83.31,0,Entregado,Sofía Castillo
+1117,9/21/2026,Desconocido,Guatemala,Laptop Lenovo 14,Computadoras,1,0,0,5191.07,10,Cancelado,Sofía Castillo
+1118,9/18/2026,Cliente 007,Escuintla,Monitor 24 pulgadas,Monitores,3,0,0,1449.59,0,Cancelado,Jorge Ramírez
+1119,9/15/2026,Cliente 002,Quetzaltenango,Mouse inalámbrico,Accesorios,4,0,0,83.69,10,Entregado,Jorge Ramírez
+1120,9/22/2026,Cliente 031,Mixco,Parlante portátil,Audio,2,0,0,382.48,10,Entregado,Jorge Ramírez
+1121,9/9/2026,Cliente 003,Antigua Guatemala,Teclado mecánico,Accesorios,1,0,0,319.39,15,Entregado,Sofía Castillo
+1122,9/28/2026,Cliente 106,Quetzaltenango,Webcam HD,Accesorios,1,0,0,244.02,15,Entregado,Carlos Méndez
+1123,9/16/2026,Cliente 001,Quetzaltenango,Webcam HD,Accesorios,1,0,0,234.46,15,Entregado,Jorge Ramírez
+1124,9/22/2026,Cliente 046,Guatemala,Parlante portátil,Audio,1,0,0,386.22,15,Entregado,Carlos Méndez
+1125,9/4/2026,Cliente 039,Escuintla,Disco duro 1TB,Almacenamiento,1,0,0,572.69,0,Cancelado,Ana López
+1126,9/1/2026,Cliente 023,Cobán,Impresora HP,Impresoras,5,0,0,1127.74,10,Entregado,Carlos Méndez
+1127,9/22/2026,Cliente 021,Escuintla,Memoria USB 64GB,Almacenamiento,5,0,0,71.05,0,Entregado,Carlos Méndez
+1128,9/1/2026,Cliente 019,Quetzaltenango,Parlante portátil,Audio,2,0,0,390.64,0,Entregado,Sofía Castillo
+1129,9/10/2026,Cliente 081,Guatemala,Teclado mecánico,Accesorios,5,0,0,317.72,10,Entregado,Ana López
+1130,9/8/2026,Cliente 009,Quetzaltenango,Impresora HP,Impresoras,2,0,0,1096.29,5,Entregado,Lucía Pérez
+1131,9/9/2026,Cliente 053,Quetzaltenango,Memoria USB 64GB,Almacenamiento,2,0,0,71.01,0,Entregado,Ana López
+1132,9/20/2026,Cliente 028,Cobán,Webcam HD,Accesorios,2,0,0,233.24,15,Entregado,Carlos Méndez
+1133,9/28/2026,Cliente 013,Mixco,Impresora HP,Impresoras,4,0,0,1077.95,0,Pendiente,Lucía Pérez
+1134,9/21/2026,Cliente 079,Escuintla,Webcam HD,Accesorios,2,0,0,238.48,10,Cancelado,Jorge Ramírez
+1135,9/23/2026,Cliente 119,Quetzaltenango,Audífonos Bluetooth,Audio,2,0,0,272.49,0,Cancelado,Lucía Pérez
+1136,9/2/2026,Cliente 039,Mixco,Parlante portátil,Audio,4,0,0,397.6,15,Pendiente,Carlos Méndez
+1137,9/15/2026,Cliente 088,Guatemala,Disco duro 1TB,Almacenamiento,2,0,0,564.58,15,Entregado,Sofía Castillo
+1138,9/17/2026,Cliente 108,Quetzaltenango,Impresora HP,Impresoras,2,0,0,1104.08,15,Cancelado,Sofía Castillo
+1139,9/10/2026,Cliente 107,Antigua Guatemala,Parlante portátil,Audio,4,0,0,390.14,10,Entregado,Ana López
+1140,9/14/2026,Cliente 080,Antigua Guatemala,Webcam HD,Accesorios,2,0,0,238.98,10,Entregado,Jorge Ramírez
+1141,9/12/2026,Cliente 028,Mixco,Laptop Lenovo 14,Computadoras,5,0,0,5077.38,10,Entregado,Sin Asignar
+1142,9/27/2026,Cliente 025,Antigua Guatemala,Teclado mecánico,Accesorios,1,0,0,318.76,10,Entregado,Ana López
+1143,9/4/2026,Cliente 059,Escuintla,Monitor 24 pulgadas,Monitores,3,0,0,1441.09,15,Cancelado,Ana López
+1144,9/14/2026,Cliente 115,Guatemala,Monitor 24 pulgadas,Monitores,1,0,0,1434.44,0,Entregado,Carlos Méndez
+1145,9/15/2026,Cliente 014,Mixco,Disco duro 1TB,Almacenamiento,5,0,0,546.54,0,Pendiente,Carlos Méndez
+1146,9/4/2026,Cliente 020,Quetzaltenango,Mouse inalámbrico,Accesorios,5,0,0,84.22,0,Cancelado,Jorge Ramírez
+1147,9/25/2026,Cliente 088,Quetzaltenango,Teclado mecánico,Accesorios,4,0,0,312.15,0,Entregado,Jorge Ramírez
+1148,9/2/2026,Cliente 096,Guatemala,Memoria USB 64GB,Almacenamiento,1,0,0,69.9,5,Entregado,Jorge Ramírez
+1149,9/21/2026,Cliente 070,Escuintla,Mouse inalámbrico,Accesorios,2,0,0,83.75,5,Entregado,Lucía Pérez
+1150,9/6/2026,Cliente 078,Escuintla,Laptop Lenovo 14,Computadoras,2,0,0,5311.25,0,Entregado,Ana López
+1151,9/23/2026,Cliente 097,Guatemala,Monitor 24 pulgadas,Monitores,4,0,0,1438.25,0,Entregado,Sofía Castillo
+1152,9/25/2026,Cliente 055,Escuintla,Parlante portátil,Audio,2,0,0,384.48,0,Pendiente,Sofía Castillo
+1153,9/6/2026,Cliente 005,Escuintla,Webcam HD,Accesorios,2,0,0,238.83,10,Entregado,Lucía Pérez
+1154,9/14/2026,Cliente 120,Cobán,Audífonos Bluetooth,Audio,5,0,0,270.18,0,Entregado,Sofía Castillo
+1155,9/10/2026,Cliente 112,Escuintla,Audífonos Bluetooth,Audio,2,0,0,271.89,0,Entregado,Sofía Castillo
+1156,9/20/2026,Cliente 094,Cobán,Impresora HP,Impresoras,1,0,0,1113.01,15,Entregado,Jorge Ramírez
+1157,9/21/2026,Cliente 078,Quetzaltenango,Disco duro 1TB,Almacenamiento,1,0,0,563.77,0,Entregado,Jorge Ramírez
+1158,9/19/2026,Cliente 046,Guatemala,Impresora HP,Impresoras,3,0,0,1104.58,5,Entregado,Lucía Pérez
+1159,9/26/2026,Cliente 053,Quetzaltenango,Memoria USB 64GB,Almacenamiento,1,0,0,67.94,10,Entregado,Lucía Pérez
+1160,9/18/2026,Cliente 015,Antigua Guatemala,Webcam HD,Accesorios,4,0,0,244.22,0,Entregado,Lucía Pérez
+1161,9/30/2026,Cliente 028,Guatemala,Audífonos Bluetooth,Audio,1,0,0,266.79,0,Entregado,Ana López
+1162,9/23/2026,Cliente 080,Escuintla,Impresora HP,Impresoras,5,0,0,1128.72,0,Pendiente,Sofía Castillo
+1163,9/17/2026,Cliente 017,Guatemala,Parlante portátil,Audio,4,0,0,379.57,0,Entregado,Ana López
+1164,9/30/2026,Cliente 010,Escuintla,Mouse inalámbrico,Accesorios,4,0,0,86.5,0,Entregado,Jorge Ramírez
+1165,9/27/2026,Cliente 097,Antigua Guatemala,Webcam HD,Accesorios,4,0,0,243.39,0,Cancelado,Jorge Ramírez
+1166,9/7/2026,Cliente 020,Antigua Guatemala,Laptop Lenovo 14,Computadoras,1,0,0,5173.37,10,Entregado,Ana López
+1167,9/3/2026,Cliente 053,Quetzaltenango,Memoria USB 64GB,Almacenamiento,5,0,0,71.96,15,Entregado,Ana López
+1168,9/10/2026,Cliente 056,Mixco,Mouse inalámbrico,Accesorios,2,0,0,86.51,15,Entregado,Sofía Castillo
+1169,9/20/2026,Cliente 021,Cobán,Teclado mecánico,Accesorios,2,0,0,314.35,0,Entregado,Carlos Méndez
+1170,9/15/2026,Cliente 051,Guatemala,Disco duro 1TB,Almacenamiento,1,0,0,545.79,0,Pendiente,Ana López
+1171,9/9/2026,Cliente 044,Antigua Guatemala,Webcam HD,Accesorios,1,0,0,235.95,0,Cancelado,Sofía Castillo
+1172,9/4/2026,Cliente 029,Quetzaltenango,Webcam HD,Accesorios,3,0,0,233.85,0,Entregado,Carlos Méndez
+1173,9/7/2026,Cliente 016,Quetzaltenango,Webcam HD,Accesorios,2,0,0,236.43,0,Entregado,Lucía Pérez
+1174,9/7/2026,Cliente 047,Quetzaltenango,Monitor 24 pulgadas,Monitores,1,0,0,1472.63,15,Pendiente,Carlos Méndez
+1175,9/20/2026,Cliente 103,Escuintla,Audífonos Bluetooth,Audio,1,0,0,279.92,10,Entregado,Carlos Méndez
+1176,9/24/2026,Cliente 118,Guatemala,Audífonos Bluetooth,Audio,2,0,0,274.57,0,Entregado,Jorge Ramírez
+1177,9/13/2026,Cliente 016,Antigua Guatemala,Mouse inalámbrico,Accesorios,4,0,0,83.51,0,Entregado,Lucía Pérez
+1178,9/10/2026,Desconocido,Guatemala,Audífonos Bluetooth,Audio,1,0,0,268.91,0,Entregado,Ana López
+1179,9/29/2026,Cliente 120,Escuintla,Monitor 24 pulgadas,Monitores,1,0,0,1463.41,0,Entregado,Carlos Méndez
+1180,9/1/2026,Cliente 064,Escuintla,Impresora HP,Impresoras,4,0,0,1073.19,15,Entregado,Sofía Castillo
+1181,9/24/2026,Desconocido,Cobán,Parlante portátil,Audio,5,0,0,383.42,15,Entregado,Jorge Ramírez
+1182,9/2/2026,Cliente 026,Escuintla,Impresora HP,Impresoras,2,0,0,1124.67,10,Cancelado,Lucía Pérez
+1183,9/26/2026,Cliente 098,Guatemala,Disco duro 1TB,Almacenamiento,1,0,0,561.25,0,Entregado,Ana López
+1184,9/21/2026,Cliente 019,Cobán,Parlante portátil,Audio,5,0,0,379.22,5,Entregado,Lucía Pérez
+1185,9/4/2026,Cliente 055,Mixco,Audífonos Bluetooth,Audio,2,0,0,268.69,0,Entregado,Jorge Ramírez
+1186,9/22/2026,Cliente 095,Escuintla,Laptop Lenovo 14,Computadoras,5,0,0,5081.83,0,Entregado,Sin Asignar
+1187,9/29/2026,Cliente 090,Escuintla,Teclado mecánico,Accesorios,2,0,0,326.04,0,Entregado,Jorge Ramírez
+1188,9/10/2026,Cliente 072,Quetzaltenango,Disco duro 1TB,Almacenamiento,2,0,0,570.79,0,Entregado,Jorge Ramírez
+1189,9/28/2026,Cliente 078,Escuintla,Impresora HP,Impresoras,5,0,0,1124.69,0,Entregado,Carlos Méndez
+1190,9/24/2026,Cliente 110,Mixco,Impresora HP,Impresoras,2,0,0,1103.29,0,Entregado,Jorge Ramírez
+1191,9/6/2026,Cliente 029,Antigua Guatemala,Monitor 24 pulgadas,Monitores,4,0,0,1469.3,0,Entregado,Ana López
+1192,9/9/2026,Cliente 081,Guatemala,Audífonos Bluetooth,Audio,2,0,0,278.2,0,Entregado,Ana López
+1193,9/25/2026,Cliente 066,Quetzaltenango,Disco duro 1TB,Almacenamiento,3,0,0,573.06,5,Entregado,Ana López
+1194,9/23/2026,Cliente 008,Escuintla,Audífonos Bluetooth,Audio,1,0,0,268.72,0,Entregado,Sofía Castillo
+1195,9/30/2026,Cliente 034,Escuintla,Impresora HP,Impresoras,2,0,0,1129.65,0,Entregado,Carlos Méndez
+1196,9/19/2026,Cliente 036,Quetzaltenango,Audífonos Bluetooth,Audio,1,0,0,279.56,10,Entregado,Lucía Pérez
+1197,9/26/2026,Cliente 023,Quetzaltenango,Audífonos Bluetooth,Audio,1,0,0,273.31,10,Entregado,Jorge Ramírez
+1198,9/25/2026,Cliente 095,Escuintla,Webcam HD,Accesorios,1,0,0,242.74,0,Entregado,Ana López
+1199,9/23/2026,Cliente 082,Mixco,Laptop Lenovo 14,Computadoras,1,0,0,5239.4,0,Entregado,Ana López
+1200,9/25/2026,Cliente 014,Quetzaltenango,Laptop Lenovo 14,Computadoras,1,0,0,5229.13,0,Pendiente,Carlos Méndez
+1201,9/16/2026,Cliente 005,Antigua Guatemala,Monitor 24 pulgadas,Monitores,5,0,0,1490.94,0,Entregado,Sin Asignar
+1202,9/10/2026,Cliente 062,Quetzaltenango,Webcam HD,Accesorios,1,0,0,246.99,5,Entregado,Ana López
+1203,9/29/2026,Cliente 031,Antigua Guatemala,Mouse inalámbrico,Accesorios,1,0,0,84.01,0,Entregado,Carlos Méndez
+1204,9/1/2026,Cliente 005,Guatemala,Monitor 24 pulgadas,Monitores,2,0,0,1451.02,0,Entregado,Ana López
+1205,9/1/2026,Cliente 026,Quetzaltenango,Audífonos Bluetooth,Audio,1,0,0,269.5,5,Entregado,Ana López
+1206,9/11/2026,Cliente 076,Mixco,Impresora HP,Impresoras,1,0,0,1078.77,0,Entregado,Jorge Ramírez
+1207,9/15/2026,Desconocido,Mixco,Laptop Lenovo 14,Computadoras,5,0,0,5203.49,5,Entregado,Lucía Pérez
+1208,9/26/2026,Cliente 023,Escuintla,Memoria USB 64GB,Almacenamiento,1,0,0,70.43,0,Pendiente,Sofía Castillo
+1209,9/3/2026,Cliente 008,Mixco,Monitor 24 pulgadas,Monitores,5,0,0,1423.61,15,Entregado,Sofía Castillo
+1210,9/14/2026,Cliente 112,Guatemala,Mouse inalámbrico,Accesorios,1,0,0,84.33,10,Pendiente,Sofía Castillo
+1211,9/4/2026,Cliente 119,Guatemala,Audífonos Bluetooth,Audio,4,0,0,283,5,Entregado,Lucía Pérez
+1212,9/9/2026,Cliente 008,Quetzaltenango,Webcam HD,Accesorios,4,0,0,245.82,0,Entregado,Sin Asignar
+1213,9/13/2026,Cliente 108,Escuintla,Memoria USB 64GB,Almacenamiento,1,0,0,69.64,0,Pendiente,Jorge Ramírez
+1214,9/7/2026,Cliente 012,Mixco,Audífonos Bluetooth,Audio,2,0,0,275.81,0,Entregado,Carlos Méndez
+1215,9/13/2026,Cliente 096,Quetzaltenango,Audífonos Bluetooth,Audio,4,0,0,270.45,0,Cancelado,Carlos Méndez
+1216,9/19/2026,Cliente 110,Escuintla,Laptop Lenovo 14,Computadoras,1,0,0,5353.89,0,Cancelado,Carlos Méndez
+1217,9/23/2026,Cliente 020,Guatemala,Audífonos Bluetooth,Audio,2,0,0,269.3,0,Entregado,Carlos Méndez
+1218,9/17/2026,Cliente 089,Guatemala,Monitor 24 pulgadas,Monitores,3,0,0,1488.7,0,Entregado,Ana López
+1219,9/29/2026,Cliente 067,Escuintla,Mouse inalámbrico,Accesorios,5,0,0,85.22,0,Entregado,Ana López
+1220,9/11/2026,Cliente 069,Guatemala,Mouse inalámbrico,Accesorios,1,0,0,84.81,0,Entregado,Carlos Méndez
+1221,9/11/2026,Cliente 047,Cobán,Teclado mecánico,Accesorios,4,0,0,317.77,15,Entregado,Jorge Ramírez
+1222,9/17/2026,Cliente 051,Cobán,Teclado mecánico,Accesorios,-1,0,1,327.97,15,Cancelado,Carlos Méndez
+1223,9/4/2026,Cliente 014,Mixco,Parlante portátil,Audio,1,0,0,387.73,0,Cancelado,Lucía Pérez
+1224,9/13/2026,Cliente 003,Mixco,Laptop Lenovo 14,Computadoras,1,0,0,5186.28,0,Cancelado,Jorge Ramírez
+1225,9/25/2026,Cliente 116,Antigua Guatemala,Parlante portátil,Audio,2,0,0,387.49,0,Entregado,Carlos Méndez
+1226,9/16/2026,Cliente 112,Antigua Guatemala,Audífonos Bluetooth,Audio,3,0,0,279.56,0,Entregado,Carlos Méndez
+1227,9/28/2026,Cliente 094,Cobán,Impresora HP,Impresoras,1,0,0,1074.87,0,Entregado,Jorge Ramírez
+1228,9/3/2026,Cliente 083,Guatemala,Memoria USB 64GB,Almacenamiento,1,0,0,68.2,0,Entregado,Carlos Méndez
+1229,9/21/2026,Cliente 044,Escuintla,Impresora HP,Impresoras,3,0,0,1071.8,0,Pendiente,Sofía Castillo
+1230,9/21/2026,Cliente 003,Guatemala,Disco duro 1TB,Almacenamiento,3,0,0,576.15,0,Entregado,Ana López
+1231,9/13/2026,Cliente 118,Cobán,Mouse inalámbrico,Accesorios,1,0,0,82.66,0,Entregado,Lucía Pérez
+1232,9/1/2026,Cliente 108,Mixco,Teclado mecánico,Accesorios,1,0,0,312.49,0,Entregado,Ana López
+1233,9/9/2026,Cliente 077,Cobán,Webcam HD,Accesorios,2,0,0,245.71,0,Cancelado,Carlos Méndez
+1234,9/10/2026,Cliente 111,Escuintla,Mouse inalámbrico,Accesorios,1,0,0,85.34,0,Cancelado,Jorge Ramírez
+1235,9/24/2026,Cliente 048,Mixco,Mouse inalámbrico,Accesorios,1,0,0,86.66,15,Entregado,Carlos Méndez
+1236,9/6/2026,Cliente 103,Escuintla,Monitor 24 pulgadas,Monitores,4,0,0,1467.56,0,Entregado,Sofía Castillo
+1237,9/15/2026,Cliente 038,Cobán,Memoria USB 64GB,Almacenamiento,1,0,0,69.56,0,Entregado,Carlos Méndez
+1238,9/10/2026,Cliente 042,Antigua Guatemala,Disco duro 1TB,Almacenamiento,1,0,0,560.66,0,Entregado,Jorge Ramírez
+1239,9/14/2026,Cliente 010,Cobán,Audífonos Bluetooth,Audio,1,0,0,280.52,10,Entregado,Lucía Pérez
+1240,9/9/2026,Cliente 006,Antigua Guatemala,Memoria USB 64GB,Almacenamiento,5,0,0,69.6,0,Entregado,Sofía Castillo
+1241,9/8/2026,Cliente 085,Antigua Guatemala,Disco duro 1TB,Almacenamiento,3,0,0,567.54,0,Entregado,Sofía Castillo
+1242,9/13/2026,Cliente 002,Escuintla,Impresora HP,Impresoras,4,0,0,1129.6,0,Entregado,Jorge Ramírez
+1243,9/9/2026,Cliente 066,Quetzaltenango,Monitor 24 pulgadas,Monitores,1,0,0,1426.36,5,Cancelado,Jorge Ramírez
+1244,9/15/2026,Cliente 097,Escuintla,Mouse inalámbrico,Accesorios,4,0,0,82.5,0,Entregado,Lucía Pérez
+1245,9/13/2026,Cliente 105,Guatemala,Parlante portátil,Audio,2,0,0,385.44,5,Entregado,Ana López
+1246,9/11/2026,Cliente 105,Mixco,Disco duro 1TB,Almacenamiento,4,0,0,561.32,5,Entregado,Jorge Ramírez
+1247,9/11/2026,Cliente 049,Antigua Guatemala,Disco duro 1TB,Almacenamiento,1,0,0,560.13,5,Entregado,Sofía Castillo
+1248,9/2/2026,Cliente 023,Guatemala,Memoria USB 64GB,Almacenamiento,2,0,0,70.26,10,Entregado,Carlos Méndez
+1249,9/26/2026,Cliente 081,Escuintla,Teclado mecánico,Accesorios,5,0,0,311.05,5,Pendiente,Lucía Pérez
+1250,9/8/2026,Cliente 015,Guatemala,Parlante portátil,Audio,1,0,0,389.95,10,Cancelado,Sofía Castillo
+1251,9/26/2026,Cliente 003,Guatemala,Memoria USB 64GB,Almacenamiento,1,0,0,69.61,10,Entregado,Carlos Méndez
+1252,9/28/2026,Cliente 003,Guatemala,Laptop Lenovo 14,Computadoras,4,0,0,5310.08,10,Entregado,Sofía Castillo
+1253,9/17/2026,Cliente 064,Escuintla,Audífonos Bluetooth,Audio,1,0,0,271.91,0,Entregado,Carlos Méndez
+1254,9/9/2026,Cliente 109,Quetzaltenango,Audífonos Bluetooth,Audio,5,0,0,270.34,0,Entregado,Jorge Ramírez
+1255,9/9/2026,Cliente 027,Guatemala,Monitor 24 pulgadas,Monitores,4,0,0,1420.91,15,Entregado,Jorge Ramírez
+1256,9/15/2026,Cliente 037,Guatemala,Parlante portátil,Audio,3,0,0,382,0,Entregado,Sin Asignar
+1257,9/15/2026,Cliente 051,Quetzaltenango,Parlante portátil,Audio,1,0,0,401.19,0,Entregado,Carlos Méndez
+1258,9/3/2026,Cliente 074,Guatemala,Webcam HD,Accesorios,2,0,0,246.06,0,Entregado,Ana López
+1259,9/5/2026,Cliente 066,Quetzaltenango,Disco duro 1TB,Almacenamiento,1,0,0,566.9,0,Entregado,Ana López
+1260,9/8/2026,Cliente 099,Guatemala,Webcam HD,Accesorios,1,0,0,235.51,10,Entregado,Jorge Ramírez
+1261,9/3/2026,Cliente 115,Cobán,Impresora HP,Impresoras,1,0,0,1110.88,15,Pendiente,Sin Asignar
+1262,9/5/2026,Cliente 063,Antigua Guatemala,Parlante portátil,Audio,1,0,0,382.54,0,Entregado,Lucía Pérez
+1263,9/16/2026,Cliente 061,Guatemala,Parlante portátil,Audio,5,0,0,390.02,15,Entregado,Carlos Méndez
+1264,9/10/2026,Cliente 111,Guatemala,Impresora HP,Impresoras,4,0,0,1076.93,15,Entregado,Lucía Pérez
+1265,9/1/2026,Cliente 048,Escuintla,Mouse inalámbrico,Accesorios,2,0,0,82.85,5,Entregado,Sofía Castillo
+1266,9/14/2026,Cliente 069,Antigua Guatemala,Impresora HP,Impresoras,3,0,0,1122.37,15,Entregado,Ana López
+1267,9/15/2026,Cliente 042,Guatemala,Audífonos Bluetooth,Audio,2,0,0,278.5,10,Entregado,Ana López
+1268,9/4/2026,Cliente 009,Antigua Guatemala,Monitor 24 pulgadas,Monitores,4,0,0,1476.3,0,Entregado,Ana López
+1269,9/18/2026,Cliente 066,Cobán,Monitor 24 pulgadas,Monitores,1,0,0,1484.47,10,Entregado,Sofía Castillo
+1270,9/14/2026,Cliente 002,Guatemala,Mouse inalámbrico,Accesorios,1,0,0,87.14,0,Pendiente,Lucía Pérez
+1271,9/23/2026,Cliente 040,Quetzaltenango,Audífonos Bluetooth,Audio,1,0,0,282.24,0,Entregado,Lucía Pérez
+1272,9/30/2026,Cliente 086,Mixco,Memoria USB 64GB,Almacenamiento,1,0,0,69.36,0,Entregado,Carlos Méndez
+1273,9/12/2026,Cliente 096,Guatemala,Audífonos Bluetooth,Audio,1,0,0,276.18,15,Entregado,Sofía Castillo
+1274,9/21/2026,Cliente 116,Cobán,Webcam HD,Accesorios,1,0,0,241.79,0,Pendiente,Sofía Castillo
+1275,9/11/2026,Cliente 102,Antigua Guatemala,Monitor 24 pulgadas,Monitores,1,0,0,1483.16,0,Entregado,Carlos Méndez
+1276,9/7/2026,Cliente 097,Quetzaltenango,Disco duro 1TB,Almacenamiento,3,0,0,564.9,0,Entregado,Sofía Castillo
+1277,9/11/2026,Cliente 060,Antigua Guatemala,Audífonos Bluetooth,Audio,2,0,0,269.08,15,Cancelado,Ana López
+1278,9/11/2026,Cliente 078,Escuintla,Parlante portátil,Audio,1,0,0,384.55,15,Entregado,Lucía Pérez
+1279,9/12/2026,Cliente 118,Quetzaltenango,Webcam HD,Accesorios,1,0,0,245.04,0,Entregado,Sofía Castillo
+1280,9/9/2026,Cliente 056,Guatemala,Impresora HP,Impresoras,4,0,0,1131.75,15,Entregado,Lucía Pérez
+1281,9/1/2026,Cliente 028,Antigua Guatemala,Impresora HP,Impresoras,5,0,0,1093.33,0,Entregado,Jorge Ramírez
+1282,9/19/2026,Cliente 084,Quetzaltenango,Audífonos Bluetooth,Audio,1,0,0,269.35,15,Entregado,Carlos Méndez
+1283,9/8/2026,Cliente 117,Guatemala,Mouse inalámbrico,Accesorios,2,0,0,84.83,0,Entregado,Jorge Ramírez
+1284,9/9/2026,Cliente 050,Mixco,Memoria USB 64GB,Almacenamiento,4,0,0,69.79,15,Pendiente,Ana López
+1285,9/18/2026,Cliente 102,Cobán,Laptop Lenovo 14,Computadoras,2,0,0,5140.2,0,Cancelado,Jorge Ramírez
+1286,9/27/2026,Cliente 030,Cobán,Mouse inalámbrico,Accesorios,2,0,0,87.08,0,Entregado,Sofía Castillo
+1287,9/21/2026,Cliente 030,Guatemala,Impresora HP,Impresoras,2,0,0,1094.93,0,Pendiente,Lucía Pérez
+1288,9/9/2026,Cliente 015,Escuintla,Disco duro 1TB,Almacenamiento,1,0,0,576.39,15,Entregado,Lucía Pérez
+1289,9/13/2026,Cliente 118,Quetzaltenango,Memoria USB 64GB,Almacenamiento,1,0,0,70.13,15,Entregado,Sin Asignar
+1290,9/13/2026,Cliente 111,Mixco,Audífonos Bluetooth,Audio,1,0,0,268.03,0,Cancelado,Lucía Pérez
+1291,9/18/2026,Cliente 043,Escuintla,Impresora HP,Impresoras,1,0,0,1075.47,0,Entregado,Jorge Ramírez
+1292,9/25/2026,Cliente 057,Escuintla,Parlante portátil,Audio,1,0,0,397.11,5,Entregado,Sofía Castillo
+1293,9/17/2026,Cliente 074,Escuintla,Memoria USB 64GB,Almacenamiento,4,0,0,70.05,15,Entregado,Jorge Ramírez
+1294,9/20/2026,Cliente 116,Cobán,Memoria USB 64GB,Almacenamiento,3,0,0,70.17,0,Entregado,Lucía Pérez
+1295,9/14/2026,Cliente 048,Antigua Guatemala,Disco duro 1TB,Almacenamiento,2,0,0,543.59,15,Cancelado,Carlos Méndez
+1296,9/30/2026,Cliente 070,Escuintla,Disco duro 1TB,Almacenamiento,5,0,0,559.61,10,Entregado,Carlos Méndez
+1297,9/3/2026,Cliente 034,Antigua Guatemala,Disco duro 1TB,Almacenamiento,5,0,0,573.19,0,Entregado,Jorge Ramírez
+1298,9/9/2026,Cliente 026,Quetzaltenango,Webcam HD,Accesorios,2,0,0,245.73,0,Entregado,Carlos Méndez
+1299,9/1/2026,Cliente 057,Mixco,Mouse inalámbrico,Accesorios,1,0,0,85.34,10,Entregado,Carlos Méndez
+1300,9/25/2026,Cliente 005,Antigua Guatemala,Impresora HP,Impresoras,1,0,0,1097.12,5,Entregado,Sin Asignar
+1301,9/17/2026,Cliente 046,Quetzaltenango,Impresora HP,Impresoras,1,0,0,1112.8,0,Entregado,Jorge Ramírez
+1302,9/19/2026,Cliente 079,Mixco,Parlante portátil,Audio,2,0,0,382.49,0,Entregado,Ana López
+1303,9/16/2026,Cliente 016,Cobán,Audífonos Bluetooth,Audio,2,0,0,271.94,0,Entregado,Ana López
+1304,9/4/2026,Cliente 064,Cobán,Impresora HP,Impresoras,5,0,0,1104.95,0,Entregado,Jorge Ramírez
+1305,9/16/2026,Cliente 040,Quetzaltenango,Audífonos Bluetooth,Audio,2,0,0,274.72,0,Entregado,Ana López
+1306,9/6/2026,Cliente 099,Escuintla,Audífonos Bluetooth,Audio,5,0,0,272.86,5,Entregado,Carlos Méndez
+1307,9/6/2026,Cliente 112,Guatemala,Memoria USB 64GB,Almacenamiento,2,0,0,69.04,0,Entregado,Sofía Castillo
+1308,9/25/2026,Cliente 067,Mixco,Disco duro 1TB,Almacenamiento,2,0,0,552.57,0,Entregado,Lucía Pérez
+1309,9/27/2026,Cliente 074,Guatemala,Monitor 24 pulgadas,Monitores,2,0,0,1423.63,10,Entregado,Lucía Pérez
+1310,9/23/2026,Cliente 103,Quetzaltenango,Parlante portátil,Audio,2,0,0,400.89,0,Entregado,Lucía Pérez
+1311,9/18/2026,Cliente 109,Cobán,Disco duro 1TB,Almacenamiento,5,0,0,556.46,0,Entregado,Lucía Pérez
+1312,9/23/2026,Cliente 093,Cobán,Teclado mecánico,Accesorios,2,0,0,310.86,15,Entregado,Jorge Ramírez
+1313,9/12/2026,Cliente 087,Cobán,Mouse inalámbrico,Accesorios,4,0,0,82.85,0,Entregado,Sofía Castillo
+1314,9/11/2026,Cliente 116,Cobán,Webcam HD,Accesorios,1,0,0,236.19,0,Entregado,Ana López
+1315,9/2/2026,Cliente 108,Quetzaltenango,Impresora HP,Impresoras,3,0,0,1076.65,15,Pendiente,Lucía Pérez
+1316,9/14/2026,Cliente 012,Cobán,Laptop Lenovo 14,Computadoras,2,0,0,5144.93,0,Entregado,Ana López
+1317,9/15/2026,Cliente 050,Antigua Guatemala,Mouse inalámbrico,Accesorios,3,0,0,84.04,0,Entregado,Carlos Méndez
+1318,9/23/2026,Cliente 035,Escuintla,Teclado mecánico,Accesorios,2,0,0,314.35,0,Entregado,Carlos Méndez
+1319,9/13/2026,Cliente 103,Guatemala,Impresora HP,Impresoras,1,0,0,1083.89,0,Entregado,Sofía Castillo
+1320,9/26/2026,Cliente 102,Antigua Guatemala,Audífonos Bluetooth,Audio,1,0,0,270.2,15,Entregado,Ana López
+1321,9/30/2026,Cliente 104,Quetzaltenango,Parlante portátil,Audio,3,0,0,381.28,0,Entregado,Lucía Pérez
+1322,9/10/2026,Cliente 102,Antigua Guatemala,Webcam HD,Accesorios,2,0,0,244.83,5,Entregado,Lucía Pérez
+1323,9/22/2026,Cliente 116,Escuintla,Impresora HP,Impresoras,3,0,0,1072.26,15,Entregado,Sofía Castillo
+1324,9/21/2026,Cliente 110,Mixco,Monitor 24 pulgadas,Monitores,1,0,0,1470.52,5,Entregado,Carlos Méndez
+1325,9/23/2026,Cliente 025,Cobán,Disco duro 1TB,Almacenamiento,5,0,0,546.26,0,Entregado,Carlos Méndez
+1326,9/15/2026,Cliente 117,Quetzaltenango,Impresora HP,Impresoras,1,0,0,1076.45,0,Entregado,Sofía Castillo
+1327,9/25/2026,Cliente 094,Guatemala,Disco duro 1TB,Almacenamiento,2,0,0,544.96,15,Entregado,Jorge Ramírez
+1328,9/4/2026,Cliente 075,Escuintla,Teclado mecánico,Accesorios,1,0,0,316.96,0,Entregado,Lucía Pérez
+1329,9/23/2026,Desconocido,Cobán,Monitor 24 pulgadas,Monitores,5,0,0,1446.01,0,Entregado,Sofía Castillo
+1330,9/1/2026,Cliente 050,Mixco,Parlante portátil,Audio,5,0,0,379.42,5,Entregado,Carlos Méndez
+1331,9/14/2026,Cliente 042,Mixco,Audífonos Bluetooth,Audio,5,0,0,280.28,0,Entregado,Jorge Ramírez
+1332,9/21/2026,Cliente 035,Mixco,Webcam HD,Accesorios,1,0,0,243.94,0,Entregado,Ana López
+1333,9/16/2026,Cliente 036,Cobán,Teclado mecánico,Accesorios,1,0,0,318.18,0,Entregado,Ana López
+1334,9/11/2026,Desconocido,Cobán,Teclado mecánico,Accesorios,3,0,0,327.58,5,Entregado,Jorge Ramírez
+1335,9/24/2026,Cliente 104,Mixco,Impresora HP,Impresoras,500,1,0,1110.63,0,Entregado,Sofía Castillo
+1336,9/22/2026,Cliente 066,Cobán,Mouse inalámbrico,Accesorios,3,0,0,85.13,10,Pendiente,Carlos Méndez
+1337,9/17/2026,Cliente 076,Escuintla,Monitor 24 pulgadas,Monitores,1,0,0,1477.73,5,Entregado,Ana López
+1338,9/20/2026,Cliente 012,Quetzaltenango,Mouse inalámbrico,Accesorios,3,0,0,83.59,5,Entregado,Jorge Ramírez
+1339,9/2/2026,Cliente 049,Quetzaltenango,Mouse inalámbrico,Accesorios,4,0,0,84.46,0,Entregado,Jorge Ramírez
+1340,9/20/2026,Cliente 031,Quetzaltenango,Memoria USB 64GB,Almacenamiento,4,0,0,71.84,10,Pendiente,Ana López
+1341,9/15/2026,Desconocido,Guatemala,Memoria USB 64GB,Almacenamiento,2,0,0,70.87,0,Entregado,Carlos Méndez
+1342,9/13/2026,Cliente 074,Quetzaltenango,Impresora HP,Impresoras,4,0,0,1131.97,0,Entregado,Jorge Ramírez
+1343,9/22/2026,Cliente 057,Antigua Guatemala,Webcam HD,Accesorios,2,0,0,236.36,15,Entregado,Lucía Pérez
+1344,9/4/2026,Cliente 064,Quetzaltenango,Impresora HP,Impresoras,2,0,0,1132.43,0,Entregado,Jorge Ramírez
+1345,9/10/2026,Cliente 086,Quetzaltenango,Monitor 24 pulgadas,Monitores,2,0,0,1443.22,0,Entregado,Lucía Pérez
+1346,9/13/2026,Cliente 012,Guatemala,Mouse inalámbrico,Accesorios,2,0,0,85.3,0,Entregado,Jorge Ramírez
+1347,9/18/2026,Cliente 041,Antigua Guatemala,Teclado mecánico,Accesorios,1,0,0,327.74,15,Entregado,Sofía Castillo
+1348,9/4/2026,Cliente 014,Quetzaltenango,Impresora HP,Impresoras,5,0,0,1081.31,0,Entregado,Sofía Castillo
+1349,9/23/2026,Cliente 085,Mixco,Audífonos Bluetooth,Audio,1,0,0,271.08,5,Entregado,Jorge Ramírez
+1350,9/25/2026,Cliente 103,Mixco,Memoria USB 64GB,Almacenamiento,5,0,0,69.38,15,Entregado,Lucía Pérez
+1351,9/12/2026,Cliente 087,Quetzaltenango,Impresora HP,Impresoras,3,0,0,1114.91,0,Entregado,Lucía Pérez
+1352,9/25/2026,Cliente 054,Guatemala,Memoria USB 64GB,Almacenamiento,1,0,0,68.44,0,Entregado,Ana López
+1353,9/22/2026,Cliente 024,Quetzaltenango,Teclado mecánico,Accesorios,5,0,0,317.87,0,Entregado,Jorge Ramírez
+1354,9/22/2026,Cliente 055,Escuintla,Disco duro 1TB,Almacenamiento,5,0,0,556.38,0,Entregado,Sofía Castillo
+1355,9/22/2026,Cliente 010,Quetzaltenango,Memoria USB 64GB,Almacenamiento,2,0,0,71.11,10,Pendiente,Ana López
+1356,9/19/2026,Cliente 119,Guatemala,Webcam HD,Accesorios,2,0,0,242.5,15,Entregado,Sofía Castillo
+1357,9/23/2026,Cliente 049,Mixco,Memoria USB 64GB,Almacenamiento,1,0,0,69.12,0,Entregado,Sofía Castillo
+1358,9/1/2026,Cliente 015,Escuintla,Laptop Lenovo 14,Computadoras,2,0,0,5123.15,15,Cancelado,Ana López
+1359,9/16/2026,Cliente 102,Escuintla,Webcam HD,Accesorios,3,0,0,235.11,0,Entregado,Lucía Pérez
+1360,9/7/2026,Cliente 064,Antigua Guatemala,Parlante portátil,Audio,2,0,0,396.5,0,Entregado,Lucía Pérez
+1361,9/6/2026,Cliente 006,Quetzaltenango,Mouse inalámbrico,Accesorios,4,0,0,85.35,0,Cancelado,Jorge Ramírez
+1362,9/11/2026,Cliente 089,Escuintla,Monitor 24 pulgadas,Monitores,1,0,0,1436.79,0,Entregado,Ana López
+1363,9/17/2026,Cliente 106,Guatemala,Memoria USB 64GB,Almacenamiento,2,0,0,71.99,5,Entregado,Ana López
+1364,9/9/2026,Desconocido,Cobán,Parlante portátil,Audio,1,0,0,393.94,5,Entregado,Carlos Méndez
+1365,9/13/2026,Cliente 024,Guatemala,Teclado mecánico,Accesorios,5,0,0,315.92,15,Entregado,Jorge Ramírez
+1366,9/18/2026,Cliente 039,Antigua Guatemala,Webcam HD,Accesorios,2,0,0,243.29,10,Entregado,Sofía Castillo
+1367,9/22/2026,Cliente 017,Mixco,Audífonos Bluetooth,Audio,1,0,0,278.22,15,Entregado,Ana López
+1368,9/21/2026,Cliente 097,Antigua Guatemala,Audífonos Bluetooth,Audio,1,0,0,282.83,10,Entregado,Jorge Ramírez
+1369,9/27/2026,Desconocido,Mixco,Laptop Lenovo 14,Computadoras,1,0,0,5128.57,5,Entregado,Ana López
+1370,9/13/2026,Cliente 080,Antigua Guatemala,Webcam HD,Accesorios,4,0,0,235.57,10,Entregado,Jorge Ramírez
+1371,9/6/2026,Cliente 034,Escuintla,Mouse inalámbrico,Accesorios,1,0,0,87.1,0,Entregado,Lucía Pérez
+1372,9/27/2026,Cliente 066,Quetzaltenango,Teclado mecánico,Accesorios,3,0,0,315.86,0,Entregado,Ana López
+1373,9/12/2026,Cliente 090,Escuintla,Laptop Lenovo 14,Computadoras,5,0,0,5100.85,15,Entregado,Lucía Pérez
+1374,9/15/2026,Cliente 062,Escuintla,Audífonos Bluetooth,Audio,1,0,0,275.11,0,Entregado,Ana López
+1375,9/17/2026,Cliente 026,Mixco,Mouse inalámbrico,Accesorios,1,0,0,82.68,10,Entregado,Ana López
+1376,9/14/2026,Cliente 119,Quetzaltenango,Impresora HP,Impresoras,5,0,0,1119.28,0,Entregado,Carlos Méndez
+1377,9/16/2026,Cliente 107,Escuintla,Disco duro 1TB,Almacenamiento,5,0,0,548.57,15,Entregado,Ana López
+1378,9/23/2026,Cliente 106,Mixco,Audífonos Bluetooth,Audio,2,0,0,272.55,0,Entregado,Ana López
+1379,9/17/2026,Cliente 100,Antigua Guatemala,Webcam HD,Accesorios,2,0,0,234.18,0,Entregado,Jorge Ramírez
+1380,9/26/2026,Cliente 012,Mixco,Laptop Lenovo 14,Computadoras,1,0,0,5053.96,0,Entregado,Jorge Ramírez
+1381,9/13/2026,Cliente 108,Guatemala,Disco duro 1TB,Almacenamiento,3,0,0,547.07,0,Pendiente,Carlos Méndez
+1382,9/23/2026,Cliente 043,Guatemala,Teclado mecánico,Accesorios,5,0,0,320.91,15,Entregado,Ana López
+1383,9/9/2026,Cliente 054,Guatemala,Disco duro 1TB,Almacenamiento,1,0,0,555.43,5,Entregado,Carlos Méndez
+1384,9/9/2026,Cliente 086,Cobán,Parlante portátil,Audio,1,0,0,380.39,0,Entregado,Jorge Ramírez
+1385,9/22/2026,Cliente 022,Antigua Guatemala,Teclado mecánico,Accesorios,2,0,0,311.25,15,Entregado,Jorge Ramírez
+1386,9/4/2026,Cliente 096,Mixco,Disco duro 1TB,Almacenamiento,2,0,0,576.37,10,Entregado,Sofía Castillo
+1387,9/11/2026,Cliente 007,Mixco,Mouse inalámbrico,Accesorios,2,0,0,82.64,15,Pendiente,Carlos Méndez
+1388,9/10/2026,Cliente 016,Antigua Guatemala,Audífonos Bluetooth,Audio,2,0,0,269.39,0,Entregado,Lucía Pérez
+1389,9/16/2026,Cliente 002,Escuintla,Memoria USB 64GB,Almacenamiento,2,0,0,68.54,15,Entregado,Jorge Ramírez
+1390,9/24/2026,Cliente 076,Quetzaltenango,Parlante portátil,Audio,1,0,0,396.02,10,Entregado,Carlos Méndez
+1391,9/2/2026,Cliente 047,Mixco,Parlante portátil,Audio,1,0,0,398.4,15,Entregado,Ana López
+1392,9/25/2026,Cliente 063,Cobán,Mouse inalámbrico,Accesorios,1,0,0,84.54,10,Entregado,Lucía Pérez
+1393,9/2/2026,Cliente 115,Quetzaltenango,Mouse inalámbrico,Accesorios,5,0,0,86.05,0,Entregado,Jorge Ramírez
+1394,9/28/2026,Cliente 024,Cobán,Mouse inalámbrico,Accesorios,1,0,0,82.82,15,Entregado,Jorge Ramírez
+1395,9/18/2026,Cliente 045,Escuintla,Audífonos Bluetooth,Audio,2,0,0,271.43,15,Entregado,Sofía Castillo
+1396,9/11/2026,Cliente 100,Mixco,Memoria USB 64GB,Almacenamiento,2,0,0,68.13,0,Pendiente,Sofía Castillo
+1397,9/8/2026,Cliente 039,Mixco,Parlante portátil,Audio,2,0,0,398.67,10,Entregado,Ana López
+1398,9/19/2026,Cliente 009,Antigua Guatemala,Laptop Lenovo 14,Computadoras,5,0,0,5196.6,10,Entregado,Sofía Castillo
+1399,9/26/2026,Cliente 005,Antigua Guatemala,Parlante portátil,Audio,1,0,0,393.64,0,Pendiente,Ana López
+1400,9/17/2026,Cliente 113,Mixco,Laptop Lenovo 14,Computadoras,3,0,0,5151.4,15,Entregado,Ana López
+1401,9/19/2026,Cliente 101,Quetzaltenango,Mouse inalámbrico,Accesorios,3,0,0,86.72,0,Entregado,Ana López
+1402,9/8/2026,Cliente 036,Mixco,Audífonos Bluetooth,Audio,1,0,0,273.35,0,Entregado,Ana López
+1403,9/25/2026,Cliente 013,Antigua Guatemala,Memoria USB 64GB,Almacenamiento,1,0,0,69.5,0,Pendiente,Jorge Ramírez
+1404,9/27/2026,Cliente 030,Mixco,Memoria USB 64GB,Almacenamiento,4,0,0,68,0,Entregado,Carlos Méndez
+1405,9/22/2026,Cliente 013,Guatemala,Laptop Lenovo 14,Computadoras,5,0,0,5062.65,0,Entregado,Ana López
+1406,9/16/2026,Cliente 101,Guatemala,Laptop Lenovo 14,Computadoras,1,0,0,5280.01,0,Entregado,Jorge Ramírez
+1407,9/20/2026,Cliente 058,Mixco,Mouse inalámbrico,Accesorios,5,0,0,82.52,0,Entregado,Carlos Méndez
+1408,9/5/2026,Cliente 107,Escuintla,Audífonos Bluetooth,Audio,2,0,0,278.88,10,Entregado,Lucía Pérez
+1409,9/12/2026,Cliente 032,Cobán,Teclado mecánico,Accesorios,1,0,0,321.31,0,Entregado,Carlos Méndez
+1410,9/19/2026,Cliente 083,Cobán,Laptop Lenovo 14,Computadoras,1,0,0,5045.56,5,Entregado,Lucía Pérez
+1411,9/2/2026,Cliente 055,Escuintla,Webcam HD,Accesorios,3,0,0,234.47,15,Entregado,Jorge Ramírez
+1412,9/2/2026,Cliente 099,Guatemala,Disco duro 1TB,Almacenamiento,2,0,0,572.05,0,Entregado,Sofía Castillo
+1413,9/24/2026,Cliente 115,Cobán,Disco duro 1TB,Almacenamiento,4,0,0,564.37,15,Entregado,Sofía Castillo
+1414,9/19/2026,Cliente 059,Escuintla,Impresora HP,Impresoras,2,0,0,1108.29,5,Entregado,Carlos Méndez
+1415,9/30/2026,Cliente 006,Quetzaltenango,Teclado mecánico,Accesorios,5,0,0,312.53,0,Entregado,Jorge Ramírez
+1416,9/11/2026,Desconocido,Escuintla,Impresora HP,Impresoras,1,0,0,1131.99,0,Cancelado,Carlos Méndez
+1417,9/2/2026,Cliente 035,Escuintla,Monitor 24 pulgadas,Monitores,2,0,0,1431.7,0,Entregado,Sofía Castillo
+1418,9/29/2026,Cliente 006,Quetzaltenango,Memoria USB 64GB,Almacenamiento,5,0,0,72.07,5,Entregado,Sofía Castillo
+1419,9/9/2026,Cliente 047,Guatemala,Audífonos Bluetooth,Audio,2,0,0,279.9,15,Entregado,Sofía Castillo
+1420,9/4/2026,Cliente 035,Cobán,Impresora HP,Impresoras,1,0,0,1105.15,0,Entregado,Lucía Pérez
+1421,9/24/2026,Cliente 013,Mixco,Laptop Lenovo 14,Computadoras,1,0,0,5190.9,10,Entregado,Sofía Castillo
+1422,9/24/2026,Cliente 056,Cobán,Impresora HP,Impresoras,1,0,0,1129.65,0,Entregado,Carlos Méndez
+1423,9/10/2026,Cliente 106,Mixco,Impresora HP,Impresoras,4,0,0,1086.19,10,Entregado,Jorge Ramírez
+1424,9/5/2026,Cliente 048,Guatemala,Mouse inalámbrico,Accesorios,4,0,0,83.51,15,Entregado,Jorge Ramírez
+1425,9/15/2026,Cliente 001,Antigua Guatemala,Disco duro 1TB,Almacenamiento,1,0,0,570.67,0,Entregado,Ana López
+1426,9/24/2026,Cliente 031,Cobán,Memoria USB 64GB,Almacenamiento,4,0,0,68.13,10,Pendiente,Jorge Ramírez
+1427,9/12/2026,Cliente 040,Escuintla,Monitor 24 pulgadas,Monitores,1,0,0,1451.62,0,Entregado,Jorge Ramírez
+1428,9/17/2026,Cliente 095,Mixco,Impresora HP,Impresoras,2,0,0,1121.01,0,Entregado,Lucía Pérez
+1429,9/26/2026,Cliente 099,Cobán,Impresora HP,Impresoras,-2,0,1,1092.79,0,Pendiente,Jorge Ramírez
+1430,9/28/2026,Cliente 021,Mixco,Laptop Lenovo 14,Computadoras,5,0,0,5332.62,0,Pendiente,Jorge Ramírez
+1431,9/28/2026,Cliente 062,Escuintla,Mouse inalámbrico,Accesorios,3,0,0,83.65,15,Entregado,Ana López
+1432,9/29/2026,Cliente 022,Antigua Guatemala,Laptop Lenovo 14,Computadoras,1,0,0,5319.8,10,Cancelado,Lucía Pérez
+1433,9/16/2026,Cliente 083,Mixco,Webcam HD,Accesorios,1,0,0,238.15,10,Entregado,Carlos Méndez
+1434,9/20/2026,Cliente 066,Escuintla,Impresora HP,Impresoras,2,0,0,1105.52,15,Entregado,Carlos Méndez
+1435,9/29/2026,Cliente 028,Guatemala,Disco duro 1TB,Almacenamiento,1,0,0,564.14,10,Entregado,Ana López
+1436,9/22/2026,Cliente 002,Cobán,Mouse inalámbrico,Accesorios,1,0,0,84.71,5,Entregado,Lucía Pérez
+1437,9/30/2026,Cliente 053,Mixco,Teclado mecánico,Accesorios,1,0,0,311.99,0,Entregado,Jorge Ramírez
+1438,9/4/2026,Cliente 116,Mixco,Monitor 24 pulgadas,Monitores,3,0,0,1430.94,15,Pendiente,Jorge Ramírez
+1439,9/11/2026,Cliente 054,Mixco,Audífonos Bluetooth,Audio,1,0,0,279.48,0,Entregado,Lucía Pérez
+1440,9/18/2026,Cliente 097,Escuintla,Parlante portátil,Audio,4,0,0,385.87,0,Entregado,Carlos Méndez
+1441,9/8/2026,Desconocido,Cobán,Webcam HD,Accesorios,1,0,0,238.39,0,Cancelado,Sofía Castillo
+1442,9/13/2026,Cliente 094,Escuintla,Disco duro 1TB,Almacenamiento,3,0,0,574,0,Entregado,Ana López
+1443,9/7/2026,Cliente 040,Escuintla,Impresora HP,Impresoras,2,0,0,1082.9,5,Entregado,Jorge Ramírez
+1444,9/8/2026,Desconocido,Cobán,Disco duro 1TB,Almacenamiento,1,0,0,568.21,0,Entregado,Lucía Pérez
+1445,9/4/2026,Cliente 046,Escuintla,Memoria USB 64GB,Almacenamiento,4,0,0,68.91,0,Cancelado,Lucía Pérez
+1446,9/5/2026,Cliente 068,Guatemala,Disco duro 1TB,Almacenamiento,1,0,0,571.49,0,Entregado,Jorge Ramírez
+1447,9/22/2026,Cliente 062,Guatemala,Audífonos Bluetooth,Audio,1,0,0,267.99,0,Entregado,Lucía Pérez
+1448,9/23/2026,Cliente 035,Escuintla,Teclado mecánico,Accesorios,1,0,0,327.73,0,Entregado,Lucía Pérez
+1449,9/25/2026,Cliente 116,Mixco,Mouse inalámbrico,Accesorios,2,0,0,83.78,0,Entregado,Carlos Méndez
+1450,9/29/2026,Cliente 072,Guatemala,Audífonos Bluetooth,Audio,2,0,0,268.21,0,Entregado,Jorge Ramírez
+1451,9/25/2026,Cliente 120,Cobán,Audífonos Bluetooth,Audio,4,0,0,271.62,0,Entregado,Ana López
+1452,9/19/2026,Cliente 059,Escuintla,Disco duro 1TB,Almacenamiento,2,0,0,552.26,0,Cancelado,Lucía Pérez
+1453,9/12/2026,Cliente 093,Cobán,Monitor 24 pulgadas,Monitores,1,0,0,1470.43,0,Entregado,Carlos Méndez
+1454,9/30/2026,Cliente 039,Antigua Guatemala,Laptop Lenovo 14,Computadoras,1,0,0,5091.63,15,Entregado,Ana López
+1455,9/26/2026,Cliente 097,Antigua Guatemala,Mouse inalámbrico,Accesorios,1,0,0,84.85,0,Entregado,Lucía Pérez
+1456,9/11/2026,Cliente 104,Guatemala,Webcam HD,Accesorios,2,0,0,241.15,0,Entregado,Lucía Pérez
+1457,9/14/2026,Desconocido,Cobán,Webcam HD,Accesorios,1,0,0,239.82,0,Entregado,Carlos Méndez
+1458,9/11/2026,Cliente 044,Quetzaltenango,Mouse inalámbrico,Accesorios,5,0,0,85.95,15,Pendiente,Lucía Pérez
+1459,9/17/2026,Cliente 007,Mixco,Disco duro 1TB,Almacenamiento,4,0,0,568.46,5,Entregado,Sofía Castillo
+1460,9/25/2026,Cliente 034,Guatemala,Disco duro 1TB,Almacenamiento,4,0,0,576.47,10,Entregado,Sofía Castillo
+1461,9/14/2026,Cliente 004,Mixco,Parlante portátil,Audio,1,0,0,395.63,5,Entregado,Sofía Castillo
+1462,9/20/2026,Cliente 063,Escuintla,Parlante portátil,Audio,3,0,0,380.3,0,Entregado,Ana López
+1463,9/24/2026,Cliente 042,Escuintla,Impresora HP,Impresoras,4,0,0,1085.52,0,Cancelado,Lucía Pérez
+1464,9/30/2026,Cliente 045,Quetzaltenango,Disco duro 1TB,Almacenamiento,2,0,0,545.96,0,Cancelado,Ana López
+1465,9/7/2026,Cliente 042,Mixco,Teclado mecánico,Accesorios,1,0,0,319.27,0,Pendiente,Sin Asignar
+1466,9/29/2026,Cliente 052,Cobán,Monitor 24 pulgadas,Monitores,4,0,0,1430.01,0,Entregado,Ana López
+1467,9/23/2026,Cliente 104,Antigua Guatemala,Mouse inalámbrico,Accesorios,4,0,0,86.62,15,Entregado,Carlos Méndez
+1468,9/9/2026,Desconocido,Antigua Guatemala,Mouse inalámbrico,Accesorios,2,0,0,84.31,10,Pendiente,Ana López
+1469,9/7/2026,Cliente 064,Guatemala,Teclado mecánico,Accesorios,4,0,0,326.34,10,Cancelado,Carlos Méndez
+1470,9/9/2026,Cliente 031,Cobán,Mouse inalámbrico,Accesorios,1,0,0,85.6,5,Entregado,Sofía Castillo
+1471,9/5/2026,Cliente 109,Antigua Guatemala,Memoria USB 64GB,Almacenamiento,2,0,0,68.59,15,Entregado,Sofía Castillo
+1472,9/27/2026,Cliente 051,Cobán,Webcam HD,Accesorios,4,0,0,242.72,5,Entregado,Carlos Méndez
+1473,9/21/2026,Cliente 093,Quetzaltenango,Disco duro 1TB,Almacenamiento,1,0,0,552.08,0,Entregado,Lucía Pérez
+1474,9/11/2026,Cliente 012,Escuintla,Audífonos Bluetooth,Audio,3,0,0,267.08,0,Entregado,Carlos Méndez
+1475,9/20/2026,Cliente 019,Mixco,Teclado mecánico,Accesorios,1,0,0,321.32,0,Entregado,Ana López
+1476,9/16/2026,Cliente 078,Guatemala,Laptop Lenovo 14,Computadoras,3,0,0,5280.69,5,Entregado,Jorge Ramírez
+1477,9/28/2026,Cliente 085,Quetzaltenango,Mouse inalámbrico,Accesorios,2,0,0,85.38,0,Entregado,Sofía Castillo
+1478,9/21/2026,Cliente 079,Mixco,Webcam HD,Accesorios,2,0,0,237.78,15,Entregado,Carlos Méndez
+1479,9/1/2026,Cliente 042,Antigua Guatemala,Audífonos Bluetooth,Audio,1,0,0,267.06,10,Entregado,Carlos Méndez
+1480,9/12/2026,Cliente 093,Antigua Guatemala,Parlante portátil,Audio,4,0,0,382.25,0,Entregado,Carlos Méndez
+1481,9/3/2026,Cliente 099,Quetzaltenango,Teclado mecánico,Accesorios,1,0,0,319.05,5,Entregado,Jorge Ramírez
+1482,9/2/2026,Cliente 061,Cobán,Mouse inalámbrico,Accesorios,2,0,0,82.88,0,Entregado,Lucía Pérez
+1483,9/4/2026,Cliente 079,Mixco,Teclado mecánico,Accesorios,3,0,0,323.86,15,Entregado,Sofía Castillo
+1484,9/2/2026,Cliente 029,Quetzaltenango,Webcam HD,Accesorios,1,0,0,234.03,0,Cancelado,Lucía Pérez
+1485,9/27/2026,Cliente 115,Antigua Guatemala,Mouse inalámbrico,Accesorios,3,0,0,87.07,0,Cancelado,Jorge Ramírez
+1486,9/1/2026,Cliente 120,Cobán,Webcam HD,Accesorios,1,0,0,233.22,15,Entregado,Carlos Méndez
+1487,9/7/2026,Cliente 035,Antigua Guatemala,Teclado mecánico,Accesorios,4,0,0,328.15,0,Entregado,Lucía Pérez
+1488,9/9/2026,Cliente 040,Mixco,Monitor 24 pulgadas,Monitores,3,0,0,1470.55,0,Entregado,Carlos Méndez
+1489,9/1/2026,Cliente 090,Antigua Guatemala,Mouse inalámbrico,Accesorios,1,0,0,87.41,0,Pendiente,Lucía Pérez
+1490,9/7/2026,Cliente 099,Antigua Guatemala,Teclado mecánico,Accesorios,2,0,0,323.61,0,Entregado,Lucía Pérez
+1491,9/7/2026,Cliente 068,Mixco,Monitor 24 pulgadas,Monitores,2,0,0,1490.07,15,Entregado,Sofía Castillo
+1492,9/29/2026,Cliente 039,Escuintla,Monitor 24 pulgadas,Monitores,3,0,0,1448.99,0,Entregado,Carlos Méndez
+1493,9/6/2026,Cliente 022,Escuintla,Webcam HD,Accesorios,2,0,0,234.91,10,Cancelado,Ana López
+1494,9/15/2026,Cliente 113,Quetzaltenango,Monitor 24 pulgadas,Monitores,3,0,0,1408.1,0,Entregado,Sofía Castillo
+1495,9/2/2026,Cliente 002,Escuintla,Monitor 24 pulgadas,Monitores,3,0,0,1436.29,0,Entregado,Jorge Ramírez
+1496,9/19/2026,Cliente 040,Antigua Guatemala,Laptop Lenovo 14,Computadoras,2,0,0,5287.37,0,Entregado,Sofía Castillo
+1497,9/21/2026,Cliente 101,Guatemala,Monitor 24 pulgadas,Monitores,2,0,0,1458.8,0,Entregado,Lucía Pérez
+1498,9/29/2026,Cliente 028,Mixco,Audífonos Bluetooth,Audio,1,0,0,267.91,5,Entregado,Lucía Pérez
+1499,9/21/2026,Cliente 051,Guatemala,Monitor 24 pulgadas,Monitores,2,0,0,1440.28,10,Cancelado,Sofía Castillo
+1500,9/23/2026,Cliente 012,Quetzaltenango,Disco duro 1TB,Almacenamiento,2,0,0,573.11,0,Entregado,Sin Asignar
+1501,9/20/2026,Desconocido,Quetzaltenango,Audífonos Bluetooth,Audio,3,0,0,273.02,0,Entregado,Jorge Ramírez
+1502,9/17/2026,Cliente 025,Antigua Guatemala,Mouse inalámbrico,Accesorios,2,0,0,86.05,0,Entregado,Ana López
+1503,9/25/2026,Cliente 074,Guatemala,Memoria USB 64GB,Almacenamiento,1,0,0,71.65,0,Entregado,Jorge Ramírez
+1504,9/1/2026,Cliente 029,Mixco,Teclado mecánico,Accesorios,1,0,0,312.05,0,Entregado,Lucía Pérez
+1505,9/12/2026,Cliente 039,Antigua Guatemala,Audífonos Bluetooth,Audio,5,0,0,277.02,0,Cancelado,Ana López
+1506,9/14/2026,Cliente 027,Mixco,Audífonos Bluetooth,Audio,1,0,0,274.1,10,Entregado,Sofía Castillo
+1507,9/29/2026,Cliente 076,Cobán,Audífonos Bluetooth,Audio,2,0,0,270.1,0,Entregado,Jorge Ramírez
+1508,9/11/2026,Cliente 043,Guatemala,Monitor 24 pulgadas,Monitores,1,0,0,1448.69,5,Entregado,Ana López
+1509,9/4/2026,Cliente 107,Guatemala,Monitor 24 pulgadas,Monitores,2,0,0,1455.7,0,Entregado,Carlos Méndez
+1510,9/5/2026,Cliente 010,Cobán,Impresora HP,Impresoras,5,0,0,1122.88,10,Entregado,Carlos Méndez
+1511,9/30/2026,Cliente 032,Mixco,Disco duro 1TB,Almacenamiento,4,0,0,564.85,10,Entregado,Sin Asignar
+1512,9/24/2026,Cliente 100,Guatemala,Audífonos Bluetooth,Audio,5,0,0,280.7,5,Entregado,Carlos Méndez
+1513,9/29/2026,Cliente 064,Quetzaltenango,Audífonos Bluetooth,Audio,-2,0,1,269.37,0,Entregado,Lucía Pérez
+1514,9/11/2026,Desconocido,Antigua Guatemala,Memoria USB 64GB,Almacenamiento,5,0,0,68.45,5,Entregado,Jorge Ramírez
+1515,9/15/2026,Cliente 036,Antigua Guatemala,Disco duro 1TB,Almacenamiento,1,0,0,569.01,0,Entregado,Carlos Méndez
+1516,9/19/2026,Cliente 086,Cobán,Monitor 24 pulgadas,Monitores,1,0,0,1436.87,15,Cancelado,Jorge Ramírez
+1517,9/8/2026,Cliente 037,Quetzaltenango,Impresora HP,Impresoras,2,0,0,1125.51,0,Entregado,Carlos Méndez
+1518,9/6/2026,Cliente 029,Cobán,Parlante portátil,Audio,1,0,0,385.21,0,Entregado,Lucía Pérez
+1519,9/19/2026,Cliente 107,Quetzaltenango,Audífonos Bluetooth,Audio,2,0,0,280.85,0,Entregado,Carlos Méndez
+1520,9/1/2026,Cliente 009,Cobán,Memoria USB 64GB,Almacenamiento,2,0,0,68.42,5,Entregado,Jorge Ramírez
