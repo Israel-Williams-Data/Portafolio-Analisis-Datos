@@ -58,5 +58,5 @@ las de menor venta son Cobán (Q92 mil) y Quetzaltenango (Q82 mil).
 ## Archivos
 - `consultas.sql`: las consultas del análisis
 - `ventas_limpias.csv`: datos limpios
-- `anexo_depuracion.pdf`: detalle de la limpieza
+- `anexo_depuracion.pdf.pdf`: detalle de la limpieza
 - `dashboard.pdf`: dashboard en PDF
