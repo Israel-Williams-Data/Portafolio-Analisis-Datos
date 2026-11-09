@@ -54,4 +54,4 @@ MySQL (JOINs, LEFT JOIN, auditoría de integridad) · Power BI conectado directo
 
 ## Archivos
 - `consultas.sql`: consultas de las 8 preguntas
-- `dashboard.pdf`: dashboard en PDF
+- `caso2_distribuidora.pdf`: dashboard en PDF
