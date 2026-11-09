@@ -7,9 +7,8 @@ Hola, soy Israel Williams Córdoba, analista de datos en formación. Aquí publi
 | Caso | Herramientas | Qué resuelve |
 |---|---|---|
 | [Caso 1: Ventas de septiembre 2026](caso-01-ventas-septiembre) | Excel, MySQL, Power BI | Limpieza de datos, consultas SQL, dashboard e informe al jefe |
+| [Caso 2: Distribuidora (JOINs y Power BI)](caso-02-distribuidora) | MySQL, Power BI | Varias tablas relacionadas, auditoría de integridad, consultas con JOINs y dashboard |
 
 ## Contacto
 
 https://www.linkedin.com/in/israel-williams-a29b0a75/
-
-| [Caso 2: Distribuidora (JOINs y Power BI)](caso-02-distribuidora) | MySQL, Power BI | Varias tablas relacionadas, auditoría de integridad, consultas con JOINs y dashboard |
