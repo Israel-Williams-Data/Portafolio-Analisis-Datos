@@ -11,3 +11,5 @@ Hola, soy Israel Williams Córdoba, analista de datos en formación. Aquí publi
 ## Contacto
 
 https://www.linkedin.com/in/israel-williams-a29b0a75/
+
+| [Caso 2: Distribuidora (JOINs y Power BI)](caso-02-distribuidora) | MySQL, Power BI | Varias tablas relacionadas, auditoría de integridad, consultas con JOINs y dashboard |
