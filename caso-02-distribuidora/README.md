@@ -44,7 +44,7 @@ MySQL (JOINs, LEFT JOIN, auditoría de integridad) · Power BI conectado directo
 - Envío de pedidos entregados: Q29,495.00, reportado aparte porque los datos no indican si es un gasto o un cobro al cliente. Pendiente de validar.
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](caso2_distribuidora.png)
 
 ## Aprendizajes
 - Un `JOIN` interno puede descartar ventas sin avisar. Conviene comprobar que los desgloses sumen el total.
